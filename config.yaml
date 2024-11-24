@@ -1,0 +1,7 @@
+models:
+  anthropic:
+    name: "claude-3-5-sonnet-20241022"
+    temperature: 0
+  openai:
+    name: "gpt-4o-mini"
+    temperature: 0
